@@ -79,6 +79,6 @@ ORDER BY hour_of_day ASC
 - Queries were validated in Kaggle using the exercise check system.
 
 ## Notes
--WITH (CTEs) makes multi-step queries readable and reusable.
+- WITH (CTEs) makes multi-step queries readable and reusable.
 - Filtering out trip_seconds <= 0 and trip_miles <= 0 prevents invalid speeds.
 - EXTRACT(HOUR...) is useful for time-of-day behavior analysis.
