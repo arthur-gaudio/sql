@@ -10,7 +10,7 @@ SQL practice repo focused on **analytics SQL** (the stuff data analyst interview
 - joins (`INNER JOIN ... ON ...`)
 
 Main goal:
-✅ build a reusable **SQL patterns library** + ✅ an **exercise bank**.
+- build a reusable **SQL patterns library** + an **exercise bank**.
 
 ---
 
